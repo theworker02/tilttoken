@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/tilttoken",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Tilt host/token network string helpers for config audits.",
+  "bin": {
+    "tilttoken": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/tilttoken.git"
+  },
+  "homepage": "https://theworker02.github.io/tilttoken/",
+  "keywords": [
+    "tilt",
+    "token",
+    "net",
+    "cli",
+    "toolkit"
+  ]
+}
